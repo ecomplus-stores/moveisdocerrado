@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.17dffae24a84df4b1fd18eb04692d404.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f8f67d5bfb85d521735add40af55e90e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8ddd416397109878774cc585df2af0f3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a8b0314b7743eea128ad9c030434a5fc.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.10b55a08e31c51bb5809e1c21a3d5ff3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "moveisdocerrado",
+  "short_name": "moveisdocerrado",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Móveis do Cerrado - A sua loja online de Móveis em Madeira, fabricamos e comercializamos toda linha de Móveis em Madeira, em especial Roupeiros em diversas medidas, Camas Queen, King e Super King, Criado-Mudo, Cômodas, Armários e muito mais, fabricamos também sob medida, SEJA BEM VINDO!",
+  "background_color": "#ffffff",
+  "theme_color": "#435e42"
+}
