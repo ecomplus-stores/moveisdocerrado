@@ -80,6 +80,42 @@
     </url>
   
     <url>
+      <loc>https://moveisdocerrado.netlify.app/comoda-05-gavetoes-01-gavetinha-e-1-sapateira-puxador-reto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://moveisdocerrado.netlify.app/comoda-05-gavetoes-02-gavetinha-e-2-sapateira-puxador-pao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://moveisdocerrado.netlify.app/comoda-05-gavetoes-02-gavetinha-e-2-sapateira-puxador-cava</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://moveisdocerrado.netlify.app/bicama-solteiro-de-madeira-xadrez-lisa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://moveisdocerrado.netlify.app/bicama-solteiro-de-madeira-xadrez-filete</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://moveisdocerrado.netlify.app/cama-solteiro-de-madeira-02-listras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://moveisdocerrado.netlify.app/camas/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -146,6 +182,12 @@
     </url>
   
     <url>
+      <loc>https://moveisdocerrado.netlify.app/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://moveisdocerrado.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -159,12 +201,6 @@
   
     <url>
       <loc>https://moveisdocerrado.netlify.app/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://moveisdocerrado.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
